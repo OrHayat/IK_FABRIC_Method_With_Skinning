@@ -1,0 +1,44 @@
+﻿  kdtree.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\kdtree.cpp(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\kdtree.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\kdtree.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\kdtree.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\kdtree.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  curves.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(228): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\curves.cpp(229): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  EulerAngles.cpp
+  lineMesh.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\debugtimer.h(13): warning C4244: '=': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\debugtimer.h(18): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\debugtimer.h(24): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  mesh.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\debugtimer.h(13): warning C4244: '=': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\debugtimer.h(18): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\display\debugtimer.h(24): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  MovableGLM.cpp
+  obj_loader.cpp
+  obj_loader_parser.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\obj_loader_parser.cpp(35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  scene.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\scene.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\scene.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\scene.cpp(563): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\scene.cpp(576): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\scene.cpp(577): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  shader.cpp
+  shape.cpp
+c:\users\zohar\desktop\archilab\vgp\ik_fabric_method_with_skinning\ikforclass1\engine3d\shape.cpp(99): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  texture.cpp
+  Generating Code...
+  stb_image.c
+  engine3D.vcxproj -> C:\Users\zohar\Desktop\archilab\vgp\IK_FABRIC_Method_With_Skinning\IKforClass1\Debug\engine3D.lib
